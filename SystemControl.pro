@@ -2,6 +2,7 @@ QT       += core gui
 
 TARGET = SystemControl
 TEMPLATE = app
+CONFIG   += console
 
 DESTDIR = ../bin
 
